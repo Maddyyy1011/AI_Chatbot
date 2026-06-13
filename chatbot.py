@@ -27,6 +27,8 @@ responses = {
     # About the bot
     "who are you":  "I'm DecoBot — a rule-based chatbot built at DecodeLabs!",
     "what are you": "I'm a Python chatbot using if-else logic and dictionaries.",
+    "what is your name": "I am DecoBot, built by Madhav Agarwal!",
+    "who made you": "Madhav Agarwal — AI Engineer at DecodeLabs!",
 
     # About AI
     "what is ai":   "AI is making machines simulate human intelligence. You're learning it right now!",
